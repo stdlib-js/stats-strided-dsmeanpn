@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ec3429c`](https://github.com/stdlib-js/stdlib/commit/ec3429cd84b962ec0752707150d84f3dead9a48d) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`752092a`](https://github.com/stdlib-js/stdlib/commit/752092aa00838156eaf6681af23e70b60ae79cdc) - **feat:** add `stats/strided/dsmeanpn` _(by Aayush Khanna)_
 
 </details>
